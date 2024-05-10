@@ -1455,7 +1455,7 @@ a:hover {
 /*Style Two*/
 /*Snowflake Animation*/
 .st-snowflake-wrap .st-snowflake-first .st-snowflake-in {
-    left: -500px;
+    left: -20%;
     top: -380px;
     -webkit-animation: move_snowflake 30s ease-in linear infinite forwards;
     animation: move_snowflake 30s alternate ease-in infinite forwards;
