@@ -1556,7 +1556,7 @@ a:hover {
 @media screen and (max-width: 480px) {
     .st-snowflake-wrap .st-snowflake-first .st-snowflake-in {
         /* Further adjust properties for even smaller screens */
-        left: 0;
+        left: -30%;
     }
 }
 
