@@ -1455,7 +1455,7 @@ a:hover {
 /*Style Two*/
 /*Snowflake Animation*/
 .st-snowflake-wrap .st-snowflake-first .st-snowflake-in {
-    left: -17.5%;
+    left: -20%;
     top: -380px;
     -webkit-animation: move_snowflake 30s ease-in linear infinite forwards;
     animation: move_snowflake 30s alternate ease-in infinite forwards;
@@ -1552,14 +1552,6 @@ a:hover {
         transform: translate(0px, 0px);
     }
 }
-
-@media screen and (max-width: 480px) {
-    .st-snowflake-wrap .st-snowflake-first .st-snowflake-in {
-        /* Further adjust properties for even smaller screens */
-        left: -30%;
-    }
-}
-
 /*End Snowflake Animaiton*/
 
 .st-hero-slide.st-style2 {
